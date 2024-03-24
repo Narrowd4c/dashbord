@@ -4,6 +4,7 @@
   body {
     font-family: "Noto Sans TC", sans-serif;
     @apply leading-normal;
+    /* @apply bg-slate-400; */
   }
 }
 @tailwind components;

@@ -1,11 +1,7 @@
 <template>
-    <header class="container py-4">
-        Header
-    </header>
+    <header class="container"></header>
     <slot />
-    <footer class="container py-4">
-        Footer
-    </footer>
+    <footer class="container"></footer>
 </template>
 
 <script setup lang="ts">
